@@ -8,3 +8,6 @@ To install this you just ahve to clone the repository and run 'npm i' in the con
 
 ## Usage
 To use this, all you have to do is run the seed data to get the database and initial employees, and then run 'node app.js' in the console.
+
+## Walkthrough
+[Walkthrough](https://drive.google.com/file/d/1R-JTiFwP12UMKtMuqqT2I4HsX2fiReit/view)
